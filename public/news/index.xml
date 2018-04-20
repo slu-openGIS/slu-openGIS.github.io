@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on SLU DSS openGIS Project</title>
-    <link>/news/</link>
+    <link>https://slu-openGIS.github.io/news/</link>
     <description>Recent content in News on SLU DSS openGIS Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2016-2018 SLU Data Science Seminar (CC BY 4.0)</copyright>
     <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://slu-openGIS.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Website Launch</title>
-      <link>/news/sitelaunch/</link>
+      <link>https://slu-openGIS.github.io/news/sitelaunch/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/sitelaunch/</guid>
+      <guid>https://slu-openGIS.github.io/news/sitelaunch/</guid>
       <description>We now have a website!</description>
     </item>
     
